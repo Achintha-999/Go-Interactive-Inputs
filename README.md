@@ -181,23 +181,5 @@ Contributions welcome! Suggested flow:
 3. Run `go fmt` and `go vet` ✅
 4. Open a PR with a clear description 🧾
 
-License
--------
-No license file detected in repo yet. Common choice: MIT.
 
-Maintainer
-----------
-- Owner: Achintha-999 👋
 
-Acknowledgements
-----------------
-- Go docs and community examples inspired this collection. Big thanks to the Go maintainers and contributors. ❤️
-
-Need more icons or a different style?
--------------------------------------
-I updated this README to include many more badges and emoji decorations to increase visual clarity and friendliness. If you'd like:
-- even more badges (CI, coverage, release downloads),
-- an SVG header with the Go gopher,
-- or a compact "minimal" themed README variant,
-
-tell me which option you prefer and I will generate the file and a PR to add it to the repo.
