@@ -16,7 +16,7 @@ fmt.Scan(&age)
 
 print("Enter your height in meters: ")
 fmt.Scan(&height)
-
+	
 
 fmt.Printf("Hello, %s! You are %d years old and %.2f meters tall.\n", name, age, height)
 
